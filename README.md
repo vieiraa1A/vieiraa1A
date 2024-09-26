@@ -2,8 +2,12 @@
 
 Meu nome é Ana Vieira
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-  
+  ### Você entrar em contato comigo
+
+@ana.assunpcao.vieira@escola.pr.gov.br
+
+@anavieira
