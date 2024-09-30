@@ -2,7 +2,7 @@
 
 Meu nome é Ana Vieira
 
-- Estou estudando na [Alura](https
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,3 +11,5 @@ Meu nome é Ana Vieira
 @ana.assunpcao.vieira@escola.pr.gov.br
 
 @anavieira
+
+
